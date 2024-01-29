@@ -1,0 +1,23 @@
+.App {
+    width: 1000px;
+    background-color: black;
+    color: white;
+    
+}
+
+h1 {
+    font-family: cursive;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+body {
+    background-color: rgb(124, 124, 123);
+}
